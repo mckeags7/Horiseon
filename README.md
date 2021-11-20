@@ -23,7 +23,7 @@ THEN I find a concise, descriptive title
 
 I used .css to style the navigation bar. ![navbar](\assets\images\navbar.png)
 
-I used HTML to sort content into sections. ![sections](\assets\images\sections.png)
+I used HTML to sort content into sections using semantic element tags. ![sections](\assets\images\sections.png)
 
 
-This site was refactored using [GitHub Pages](git@github.com:mckeags7/Horiseon.git)
+This site was refactored using [GitHub Pages](https://mckeags7.github.io/Horiseon/)
